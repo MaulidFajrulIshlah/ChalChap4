@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/option_sorting"
+        android:icon="@drawable/ic_baseline_filter_alt_24"
+        android:title="@string/ascending"
+        android:tooltipText="Filter"
+        app:showAsAction="ifRoom"
+        tools:targetApi="o">
+
+        <menu>
+            <item
+                android:id="@+id/ascending"
+                android:title="@string/ascending"
+                app:showAsAction="never" />
+            <item
+                android:id="@+id/descending"
+                android:title="@string/descending"
+                app:showAsAction="never" />
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Note</string>
+
+    <string name="register">REGISTER</string>
+    <string name="nama">Nama :</string>
+    <string name="username">Username :</string>
+    <string name="password">password</string>
+    <string name="register2">Register</string>
+    <string name="input_data">Input Data</string>
+    <string name="masukkan_judul">Masukkan judul</string>
+    <string name="selamat_datang_username">Selamat Datang, username!</string>
+    <string name="keluar">Keluar</string>
+    <string name="judul">Judul</string>
+    <string name="isi">Isi</string>
+    <string name="add">add</string>
+    <string name="home">Home</string>
+    <string name="belum_punya_akun_registrasi_disini">Belum punya akun? Registrasi Disini</string>
+    <string name="login">Login</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="masukan_kata_sandi">Masukan Kata Sandi:</string>
+    <string name="masukan_username">Masukan UserName:</string>
+    <string name="masukan_nama">Masukan Nama:</string>
+    <string name="masukan">Masukan</string>
+    <string name="masukkan_catatan">Masukkan Catatan</string>
+    <string name="masukan_catatan">Masukan Catatan</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">descending</string>
+</resources>
